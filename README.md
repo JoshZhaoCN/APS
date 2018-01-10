@@ -1,2 +1,2 @@
 # APS
-advance production scheduling
+advanced production scheduling
